@@ -1,6 +1,6 @@
 {
   "name": "@luxo/dashboard-kit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "description": "Molde Opción A para dashboards Luxolandia: realtime push + primitivos de UI. Lee DASHBOARD_PLAYBOOK.",
   "type": "module",
