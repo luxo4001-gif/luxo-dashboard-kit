@@ -20,6 +20,6 @@
     "@types/react": "^19",
     "next": "^16.2.6",
     "react": "^19",
-    "typescript": "^5"
+    "typescript": "^6.0.0"
   }
 }
